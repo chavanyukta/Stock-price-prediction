@@ -32,3 +32,14 @@ rnn.ipynb # Jupyter notebook with model training and evaluation
 ─ report.pdf # Full project report including methodology and results
 ─ README.md # Project documentation file
 ─ requirements.txt # List of required Python libraries
+
+## Project Report
+
+The full project report detailing the methodology, experimental results, and analysis can be found in the [RNN for Stock Price Prediction Report.pdf](RNN%20for%20Stock%20Price%20Prediction%20Report.pdf) file in this repository.
+
+
+## Author
+
+**Yukta Sanjiv Chavan**  
+Email: chavanyukta@gmail.com  
+
